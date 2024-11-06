@@ -1,4 +1,4 @@
-# Hangman 🎮
+# hangman-game 🎮
 ![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
 Welcome to the Hangman Game project! This is a Python-based implementation of the classic word-guessing game where players try to guess the hidden word by suggesting letters within a limited number of attempts.
@@ -40,5 +40,6 @@ This project aims to reinforce fundamental programming concepts:
 * Implementing data validation for user input.
 * Using lists, strings, and basic data manipulation techniques.
 * Creating a simple command-line game experience.
+
 
 
