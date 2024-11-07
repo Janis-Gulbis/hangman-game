@@ -1,5 +1,5 @@
 # hangman-game 🎮
-![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 Welcome to the Hangman Game project! This is a Python-based implementation of the classic word-guessing game where players try to guess the hidden word by suggesting letters within a limited number of attempts.
 
@@ -9,7 +9,6 @@ Welcome to the Hangman Game project! This is a Python-based implementation of th
 * Learning Objectives
 * Installation
 * Usage
-* Project Structure
 * Licence
 
 ## Project Description
@@ -41,5 +40,32 @@ This project aims to reinforce fundamental programming concepts:
 * Using lists, strings, and basic data manipulation techniques.
 * Creating a simple command-line game experience.
 
+## Installation
+To get started with the Hangman Game, follow these steps:
+
+1. Clone the Repository: ` git clone https://github.com/your-username/hangman-game.git `
+
+   `cd hangman-game`
+
+1. Ensure Python is Installed: This project requires Python 3.x. You can download Python from [python.org](https://www.python.org/)
+1. Run the game: Execute the game by running the script directly.
+
+   `python milestone_5.py`
+
+## Usage
+To play the game:
+
+1. Start the script and follow the on-screen prompts to guess letters.
+2. Input a single alphabetical letter as your guess.
+3. Keep guessing until you either guess the word correctly or run out of lives.
+
+## Key files
+
+* `milestone_5.py` : Contains the main logic and methods for the Hangman game, including:
+* `Hangman` class for managing game atributes and mechanics.
+* `play_game` function to initialize and run the game loop.
+
+## License
+This project is licensed under the `MIT` License.
 
 
