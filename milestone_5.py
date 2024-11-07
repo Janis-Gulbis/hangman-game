@@ -55,4 +55,8 @@ def play_game(word_list):
             print("Congratulations. You won the game!")
             break
 
+if __name__ == "__main__":
+    word_list = ["apple", "banana", "orange", "strawberry", "melon"]
+    play_game(word_list)
+
 # %%
