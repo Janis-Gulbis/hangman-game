@@ -43,7 +43,7 @@ This project aims to reinforce fundamental programming concepts:
 ## Installation
 To get started with the Hangman Game, follow these steps:
 
-1. Clone the Repository: ` git clone https://github.com/your-username/hangman-game.git `
+1. Clone the Repository: ` https://github.com/Janis-Gulbis/hangman-game.git `
 
    `cd hangman-game`
 
